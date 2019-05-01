@@ -1,5 +1,7 @@
 # Java for Noobs
-**Version 1.0.0** - [Change Log]
+**Version 1.0.0** - [Change Log](CHANGELOG.md)
+
+Example of header
 
 ---
 
