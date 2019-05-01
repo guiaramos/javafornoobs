@@ -1,6 +1,9 @@
-Spacegram
+#Spacegram
 
 http://spacegram.herokuapp.com/
+
+---
+
 
 Photo viewing app for the space enthusiast
 
