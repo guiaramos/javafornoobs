@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3127e09e-ad7d-4b3a-add3-656defcd7502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaforNoobs/Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GettingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,10 +23,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArithmeticOperators.java">
+        <entry file="file://$PROJECT_DIR$/src/Loop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="328">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GettingInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pizza.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -30,41 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RelationalOperator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IfStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwitchStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Methods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -93,6 +94,11 @@
         <option value="$PROJECT_DIR$/src/IfStatement.java" />
         <option value="$PROJECT_DIR$/src/SwitchStatement.java" />
         <option value="$PROJECT_DIR$/src/Methods.java" />
+        <option value="$PROJECT_DIR$/src/PrePostIncrementDecrement.java" />
+        <option value="$PROJECT_DIR$/src/Loop.java" />
+        <option value="$PROJECT_DIR$/src/Array.java" />
+        <option value="$PROJECT_DIR$/src/GettingInput.java" />
+        <option value="$PROJECT_DIR$/pizza.txt" />
       </list>
     </option>
   </component>
@@ -144,9 +150,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Methods">
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfStatement" />
+  <component name="RunManager" selected="Application.GettingInput">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="JavaforNoobs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GettingInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GettingInput" />
+      <module name="JavaforNoobs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="JavaforNoobs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,13 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RelationalOperator" />
-      <module name="JavaforNoobs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
       <module name="JavaforNoobs" />
@@ -173,20 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lovaClaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lovaClaire" />
-      <module name="JavaforNoobs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GettingInput" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.SwitchStatement" />
-        <item itemvalue="Application.IfStatement" />
-        <item itemvalue="Application.RelationalOperator" />
-        <item itemvalue="Application.lovaClaire" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +207,14 @@
       <option name="presentableId" value="Default" />
       <updated>1556715739805</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the last learned topic: Methods">
+      <created>1556753497639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556753497639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -213,7 +227,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -221,8 +235,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30821916" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -235,6 +249,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the last learned topic: Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the last learned topic: Methods" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
@@ -253,27 +271,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RelationalOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IfStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimitiveDataType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringConcatenation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -296,6 +293,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IfStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SwitchStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -313,6 +317,58 @@
             <element signature="e#455#456#0" expanded="true" />
             <element signature="e#505#506#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrePostIncrementDecrement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimitiveDataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RelationalOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GettingInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizza.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
